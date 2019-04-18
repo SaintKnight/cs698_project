@@ -10,6 +10,7 @@ function usually called by our neural network code.
 
 #### Libraries
 # Standard library
+import os
 import pickle
 
 # Third-party libraries
@@ -38,10 +39,19 @@ def load_data():
     That's done in the wrapper function ``load_data_wrapper()``, see
     below.
     """
-    f = open('mnist.pkl', 'rb')
-    training_data, validation_data, test_data = pickle.load(f, encoding='latin1')
-    #training_data, validation_data, test_data = pickle.load(f)
-    f.close()
+    if "data" in os.listdir():
+        f = open(os.path.join("data", "mnist.pkl"), 'rb')
+        training_data, validation_data, test_data = pickle.load(f, encoding='latin1')
+        #training_data, validation_data, test_data = pickle.load(f)
+        f.close()
+    else:
+        try:
+            f = open("mnist.pkl", 'rb')
+            training_data, validation_data, test_data = pickle.load(f, encoding='latin1')
+            #training_data, validation_data, test_data = pickle.load(f)
+            f.close()
+        except FileNotFoundError:
+            print("mnist data not where expected")
     return (training_data, validation_data, test_data)
 
 def load_data_wrapper():
