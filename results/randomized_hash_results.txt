@@ -1,0 +1,341 @@
+All time in this file is in ms
+
+reading
+finished reading in: 0
+finished training set in 69353
+finished testing set in 12629
+Started for
+// size limit 0.05
+MNIST_LSH_784_1000_10
+Finished Initializing Parameters
+Completed 0 / 60000
+Completed 6000 / 60000
+Completed 12000 / 60000
+Completed 18000 / 60000
+Completed 24000 / 60000
+Completed 30000 / 60000
+Completed 36000 / 60000
+Completed 42000 / 60000
+Completed 48000 / 60000
+Completed 54000 / 60000
+Finished Pre-Computing Training Hashes in 960
+Completed 0 / 10000
+Completed 1000 / 10000
+Completed 2000 / 10000
+Completed 3000 / 10000
+Completed 4000 / 10000
+Completed 5000 / 10000
+Completed 6000 / 10000
+Completed 7000 / 10000
+Completed 8000 / 10000
+Completed 9000 / 10000
+Finished Pre-Computing Testing Hashes in 128
+Epoch 0 Accuracy: 0.1995
+Epoch 1 Accuracy: 0.9112
+Epoch 2 Accuracy: 0.9179
+Epoch 3 Accuracy: 0.9054
+Epoch 4 Accuracy: 0.9138
+Epoch 5 Accuracy: 0.9342
+Epoch 6 Accuracy: 0.9396
+Epoch 7 Accuracy: 0.9398
+Epoch 8 Accuracy: 0.9508
+Epoch 9 Accuracy: 0.9399
+Epoch 10 Accuracy: 0.9525
+Epoch 11 Accuracy: 0.9558
+Epoch 12 Accuracy: 0.9541
+Epoch 13 Accuracy: 0.9565
+Epoch 14 Accuracy: 0.952
+Epoch 15 Accuracy: 0.9572
+Epoch 16 Accuracy: 0.957
+Epoch 17 Accuracy: 0.9587
+Epoch 18 Accuracy: 0.9594
+Epoch 19 Accuracy: 0.9606
+Epoch 20 Accuracy: 0.9616
+Epoch 21 Accuracy: 0.9621
+Epoch 22 Accuracy: 0.9629
+Epoch 23 Accuracy: 0.9635
+Epoch 24 Accuracy: 0.9637
+Total train time: 5373179
+5382
+
+
+
+
+
+
+// size limit 0.1
+MNIST_LSH_784_1000_10
+Finished Initializing Parameters
+Completed 0 / 60000
+Completed 6000 / 60000
+Completed 12000 / 60000
+Completed 18000 / 60000
+Completed 24000 / 60000
+Completed 30000 / 60000
+Completed 36000 / 60000
+Completed 42000 / 60000
+Completed 48000 / 60000
+Completed 54000 / 60000
+Finished Pre-Computing Training Hashes in 431
+Completed 0 / 10000
+Completed 1000 / 10000
+Completed 2000 / 10000
+Completed 3000 / 10000
+Completed 4000 / 10000
+Completed 5000 / 10000
+Completed 6000 / 10000
+Completed 7000 / 10000
+Completed 8000 / 10000
+Completed 9000 / 10000
+Finished Pre-Computing Testing Hashes in 71
+Epoch 0 Accuracy: 0.2186
+Epoch 1 Accuracy: 0.2756
+Epoch 2 Accuracy: 0.2188
+Epoch 3 Accuracy: 0.4035
+Epoch 4 Accuracy: 0.2026
+Epoch 5 Accuracy: 0.5379
+Epoch 6 Accuracy: 0.4863
+Epoch 7 Accuracy: 0.6225
+Epoch 8 Accuracy: 0.8059
+Epoch 9 Accuracy: 0.8545
+Epoch 10 Accuracy: 0.8625
+Epoch 11 Accuracy: 0.921
+Epoch 12 Accuracy: 0.9169
+Epoch 13 Accuracy: 0.9307
+Epoch 14 Accuracy: 0.9267
+Epoch 15 Accuracy: 0.932
+Epoch 16 Accuracy: 0.9193
+Epoch 17 Accuracy: 0.9391
+Epoch 18 Accuracy: 0.9384
+Epoch 19 Accuracy: 0.9452
+Epoch 20 Accuracy: 0.9487
+Epoch 21 Accuracy: 0.9513
+Epoch 22 Accuracy: 0.9538
+Epoch 23 Accuracy: 0.9542
+Epoch 24 Accuracy: 0.9552
+Total train time: 3028457
+3036
+
+
+
+
+// size limit 0.25
+MNIST_LSH_784_1000_10
+Finished Initializing Parameters
+Completed 0 / 60000
+Completed 6000 / 60000
+Completed 12000 / 60000
+Completed 18000 / 60000
+Completed 24000 / 60000
+Completed 30000 / 60000
+Completed 36000 / 60000
+Completed 42000 / 60000
+Completed 48000 / 60000
+Completed 54000 / 60000
+Finished Pre-Computing Training Hashes in 432
+Completed 0 / 10000
+Completed 1000 / 10000
+Completed 2000 / 10000
+Completed 3000 / 10000
+Completed 4000 / 10000
+Completed 5000 / 10000
+Completed 6000 / 10000
+Completed 7000 / 10000
+Completed 8000 / 10000
+Completed 9000 / 10000
+Finished Pre-Computing Testing Hashes in 70
+Epoch 0 Accuracy: 0.9038
+Epoch 1 Accuracy: 0.8733
+Epoch 2 Accuracy: 0.937
+Epoch 3 Accuracy: 0.931
+Epoch 4 Accuracy: 0.9645
+Epoch 5 Accuracy: 0.9658
+Epoch 6 Accuracy: 0.9608
+Epoch 7 Accuracy: 0.9431
+Epoch 8 Accuracy: 0.9699
+Epoch 9 Accuracy: 0.9703
+Epoch 10 Accuracy: 0.967
+Epoch 11 Accuracy: 0.9728
+Epoch 12 Accuracy: 0.972
+Epoch 13 Accuracy: 0.973
+Epoch 14 Accuracy: 0.9708
+Epoch 15 Accuracy: 0.9748
+Epoch 16 Accuracy: 0.9737
+Epoch 17 Accuracy: 0.9749
+Epoch 18 Accuracy: 0.966
+Epoch 19 Accuracy: 0.976
+Epoch 20 Accuracy: 0.9769
+Epoch 21 Accuracy: 0.9771
+Epoch 22 Accuracy: 0.9775
+Epoch 23 Accuracy: 0.9778
+Epoch 24 Accuracy: 0.978
+Total train time: 3913790
+3923
+
+
+
+// size limit 0.5 
+MNIST_LSH_784_1000_10
+Finished Initializing Parameters
+Completed 0 / 60000
+Completed 6000 / 60000
+Completed 12000 / 60000
+Completed 18000 / 60000
+Completed 24000 / 60000
+Completed 30000 / 60000
+Completed 36000 / 60000
+Completed 42000 / 60000
+Completed 48000 / 60000
+Completed 54000 / 60000
+Finished Pre-Computing Training Hashes in 446
+Completed 0 / 10000
+Completed 1000 / 10000
+Completed 2000 / 10000
+Completed 3000 / 10000
+Completed 4000 / 10000
+Completed 5000 / 10000
+Completed 6000 / 10000
+Completed 7000 / 10000
+Completed 8000 / 10000
+Completed 9000 / 10000
+Finished Pre-Computing Testing Hashes in 77
+Epoch 0 Accuracy: 0.952
+Epoch 1 Accuracy: 0.9614
+Epoch 2 Accuracy: 0.9664
+Epoch 3 Accuracy: 0.9701
+Epoch 4 Accuracy: 0.971
+Epoch 5 Accuracy: 0.9739
+Epoch 6 Accuracy: 0.9751
+Epoch 7 Accuracy: 0.9752
+Epoch 8 Accuracy: 0.9767
+Epoch 9 Accuracy: 0.9775
+Epoch 10 Accuracy: 0.9774
+Epoch 11 Accuracy: 0.9783
+Epoch 12 Accuracy: 0.9777
+Epoch 13 Accuracy: 0.9784
+Epoch 14 Accuracy: 0.9785
+Epoch 15 Accuracy: 0.9788
+Epoch 16 Accuracy: 0.9796
+Epoch 17 Accuracy: 0.9789
+Epoch 18 Accuracy: 0.9789
+Epoch 19 Accuracy: 0.9792
+Epoch 20 Accuracy: 0.9793
+Epoch 21 Accuracy: 0.9796
+Epoch 22 Accuracy: 0.98
+Epoch 23 Accuracy: 0.9803
+Epoch 24 Accuracy: 0.9804
+Total train time: 4973552
+4980
+
+reading
+finished reading in: 0
+finished training set in 70670
+finished testing set in 11374
+Started for
+// size limit 0.1
+MNIST_LSH_784_1000_10
+Finished Initializing Parameters
+Completed 0 / 60000
+Completed 6000 / 60000
+Completed 12000 / 60000
+Completed 18000 / 60000
+Completed 24000 / 60000
+Completed 30000 / 60000
+Completed 36000 / 60000
+Completed 42000 / 60000
+Completed 48000 / 60000
+Completed 54000 / 60000
+Finished Pre-Computing Training Hashes in 680
+Completed 0 / 10000
+Completed 1000 / 10000
+Completed 2000 / 10000
+Completed 3000 / 10000
+Completed 4000 / 10000
+Completed 5000 / 10000
+Completed 6000 / 10000
+Completed 7000 / 10000
+Completed 8000 / 10000
+Completed 9000 / 10000
+Finished Pre-Computing Testing Hashes in 85
+Epoch 0 Accuracy: 0.8114
+Epoch 1 Accuracy: 0.8934
+Epoch 2 Accuracy: 0.9059
+Epoch 3 Accuracy: 0.9204
+Epoch 4 Accuracy: 0.9216
+Epoch 5 Accuracy: 0.9472
+Epoch 6 Accuracy: 0.9409
+Epoch 7 Accuracy: 0.9395
+Epoch 8 Accuracy: 0.9519
+Epoch 9 Accuracy: 0.9533
+Epoch 10 Accuracy: 0.9546
+Epoch 11 Accuracy: 0.9556
+Epoch 12 Accuracy: 0.9562
+Epoch 13 Accuracy: 0.9574
+Epoch 14 Accuracy: 0.9564
+Epoch 15 Accuracy: 0.9593
+Epoch 16 Accuracy: 0.9583
+Epoch 17 Accuracy: 0.9593
+Epoch 18 Accuracy: 0.96
+Epoch 19 Accuracy: 0.9607
+Epoch 20 Accuracy: 0.9615
+Epoch 21 Accuracy: 0.9624
+Epoch 22 Accuracy: 0.9633
+Epoch 23 Accuracy: 0.9644
+Epoch 24 Accuracy: 0.9652
+Total train time: 3025702
+3034
+
+
+// size limit 0.05
+MNIST_LSH_784_1000_10
+Finished Initializing Parameters
+Completed 0 / 60000
+Completed 6000 / 60000
+Completed 12000 / 60000
+Completed 18000 / 60000
+Completed 24000 / 60000
+Completed 30000 / 60000
+Completed 36000 / 60000
+Completed 42000 / 60000
+Completed 48000 / 60000
+Completed 54000 / 60000
+Finished Pre-Computing Training Hashes in 495
+Completed 0 / 10000
+Completed 1000 / 10000
+Completed 2000 / 10000
+Completed 3000 / 10000
+Completed 4000 / 10000
+Completed 5000 / 10000
+Completed 6000 / 10000
+Completed 7000 / 10000
+Completed 8000 / 10000
+Completed 9000 / 10000
+Finished Pre-Computing Testing Hashes in 79
+Epoch 0 Accuracy: 0.4656
+Epoch 1 Accuracy: 0.6156
+Epoch 2 Accuracy: 0.6789
+Epoch 3 Accuracy: 0.7787
+Epoch 4 Accuracy: 0.8804
+Epoch 5 Accuracy: 0.9081
+Epoch 6 Accuracy: 0.7689
+Epoch 7 Accuracy: 0.7325
+Epoch 8 Accuracy: 0.9112
+Epoch 9 Accuracy: 0.8835
+Epoch 10 Accuracy: 0.9251
+Epoch 11 Accuracy: 0.9301
+Epoch 12 Accuracy: 0.9042
+Epoch 13 Accuracy: 0.9287
+Epoch 14 Accuracy: 0.7105
+Epoch 15 Accuracy: 0.9263
+Epoch 16 Accuracy: 0.8948
+Epoch 17 Accuracy: 0.9231
+Epoch 18 Accuracy: 0.886
+Epoch 19 Accuracy: 0.9035
+Epoch 20 Accuracy: 0.9088
+Epoch 21 Accuracy: 0.9123
+Epoch 22 Accuracy: 0.9136
+Epoch 23 Accuracy: 0.9135
+Epoch 24 Accuracy: 0.9155
+Total train time: 2708369
+2715
+
